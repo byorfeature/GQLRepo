@@ -3,9 +3,6 @@
 
 [package]
   distribution = "2201.1.2"
-  export = ["GQL-Jan12"]
-  icon = "docs/icon.png"
-  keywords = ["Type/GraphQL","Category/Service","Internal/http"]
   name = "GQL-Jan12"
   org = "isurupiyarathnarucji"
   version = "1.0.1"
